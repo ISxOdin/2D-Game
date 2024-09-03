@@ -7,7 +7,7 @@ import java.awt.Graphics2D;
 
 import javax.swing.JPanel;
 
-import Entity.Player;
+import entity.Player;
 import tile.TileManager;
 
 public class GamePanel extends JPanel implements Runnable{
